@@ -8,14 +8,25 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
  ---
- 
+
+- 🎓 An IT undergraduate at SLIIT University, Sri Lanka
+
 - 🔭 I’m currently working on **Cinnamon Plantation Management System**
 
 - 🌱 I’m currently learning **MERN stack**
 
+- 🎮 When I’m not coding, you’ll probably find me gaming, exploring ideas, or diving into random projects
+  
+- 💡 Passionate about software development, problem-solving & experimenting with new tech
+
 - 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **thusithapiyathilake@gmail.com**
+
+  ![Thusitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=thusitha-piyathilake&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusitha-piyathilake&layout=compact&theme=tokyonight)  
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
