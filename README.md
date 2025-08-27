@@ -49,6 +49,6 @@
 ---
 
   ![Thusitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=thusitha-piyathilake&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusitha-piyathilake&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusitha-piyathilake&layout=compact&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thusitha-piyathilake&" alt="thusitha-piyathilake" /></p>
